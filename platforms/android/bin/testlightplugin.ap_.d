@@ -1,0 +1,26 @@
+C:\testlightplugin\platforms\android\bin\testlightplugin.ap_ \
+ : C:\testlightplugin\platforms\android\res\drawable\icon.png \
+C:\testlightplugin\platforms\android\res\drawable-hdpi\icon.png \
+C:\testlightplugin\platforms\android\res\drawable-ldpi\icon.png \
+C:\testlightplugin\platforms\android\res\drawable-mdpi\icon.png \
+C:\testlightplugin\platforms\android\res\drawable-xhdpi\icon.png \
+C:\testlightplugin\platforms\android\res\values\strings.xml \
+C:\testlightplugin\platforms\android\res\xml\config.xml \
+C:\testlightplugin\platforms\android\bin\res\drawable\icon.png \
+C:\testlightplugin\platforms\android\bin\res\drawable-hdpi\icon.png \
+C:\testlightplugin\platforms\android\bin\res\drawable-ldpi\icon.png \
+C:\testlightplugin\platforms\android\bin\res\drawable-mdpi\icon.png \
+C:\testlightplugin\platforms\android\bin\res\drawable-xhdpi\icon.png \
+C:\testlightplugin\platforms\android\assets\www \
+C:\testlightplugin\platforms\android\assets\www\config.xml \
+C:\testlightplugin\platforms\android\assets\www\cordova.js \
+C:\testlightplugin\platforms\android\assets\www\cordova_plugins.js \
+C:\testlightplugin\platforms\android\assets\www\index.html \
+C:\testlightplugin\platforms\android\assets\www\phonegap.js \
+C:\testlightplugin\platforms\android\assets\www\plugins \
+C:\testlightplugin\platforms\android\assets\www\plugins\cn.edu.gdmec.t00385.lightsensor \
+C:\testlightplugin\platforms\android\assets\www\plugins\cn.edu.gdmec.t00385.lightsensor\www \
+C:\testlightplugin\platforms\android\assets\www\plugins\cn.edu.gdmec.t00385.lightsensor\www\LightSensor.js \
+C:\testlightplugin\platforms\android\assets\www\plugins\cn.edu.gdmec.t00385.lightsensor\www\LightSensorError.js \
+C:\testlightplugin\platforms\android\assets\www\plugins\cn.edu.gdmec.t00385.lightsensor\www\LightSensorLumen.js \
+C:\testlightplugin\platforms\android\bin\AndroidManifest.xml \
